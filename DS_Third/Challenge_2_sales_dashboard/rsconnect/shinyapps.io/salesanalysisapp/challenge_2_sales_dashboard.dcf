@@ -1,0 +1,10 @@
+name: challenge_2_sales_dashboard
+title:
+username:
+account: salesanalysisapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3709504
+bundleId: 4280393
+url: https://salesanalysisapp.shinyapps.io/challenge_2_sales_dashboard/
+when: 1614482413.79796

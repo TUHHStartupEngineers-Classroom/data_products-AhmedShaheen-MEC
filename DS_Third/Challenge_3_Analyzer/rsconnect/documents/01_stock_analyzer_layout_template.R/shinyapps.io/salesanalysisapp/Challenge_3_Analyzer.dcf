@@ -1,0 +1,12 @@
+name: Challenge_3_Analyzer
+title: Challenge_3_Analyzer
+username:
+account: salesanalysisapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3709528
+bundleId: 4280432
+url: https://salesanalysisapp.shinyapps.io/Challenge_3_Analyzer/
+when: 1614483542.90024
+asMultiple: FALSE
+asStatic: FALSE
